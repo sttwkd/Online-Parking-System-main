@@ -14,7 +14,7 @@ The **Online Parking System** is a web-based application designed to provide use
 - **Backend**: Spring Boot (Java)
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
-- **Tools**: Maven (for dependency management), IntelliJ IDEA/VS Code (IDE)
+- **Tools**: Maven (for dependency management), VS Code (IDE)
 
 ## System Architecture
 1. **Frontend**: Provides an interactive and user-friendly interface.
@@ -54,7 +54,7 @@ The **Online Parking System** is a web-based application designed to provide use
    ```
 
 5. **Access the Application**
-   - Open your browser and navigate to `http://localhost:8080`.
+   - Open your browser and navigate to `http://localhost:8089`.
 
 ## Folder Structure
 ```
@@ -79,7 +79,10 @@ Online-Parking-System-main/
 - Mobile application for on-the-go access.
 
 ## Contributors
-- [Your Name] - Developer
+- Sattwik Mishra - Developer
+- Gourisaran Prusty - Developer
+- Anurag Sahoo - Result Validation
+- Mayukh Sahana - Experimentation
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
